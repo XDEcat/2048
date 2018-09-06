@@ -46,6 +46,6 @@ int main()
                 break;
         }
     } while (choice != 'Q' && choice != 'q');
-    system("pause");
+    //system("pause");
     return 0;
 }
